@@ -4,7 +4,7 @@
 
 *Python backend developer building cloud-native APIs on AWS.*
 
-**Python Developer @ CGI — open to new opportunities.**
+**Backend Developer (Python · FastAPI · AWS) @ CGI — open to new opportunities**
 
 💼 [LinkedIn](https://www.linkedin.com/in/mathieubaffoigne/) &nbsp;·&nbsp; 🐦 [@MBaffoigne](https://x.com/MBaffoigne) &nbsp;·&nbsp; 📧 [mathieubaffoigne@protonmail.com](mailto:mathieubaffoigne@protonmail.com)
 
