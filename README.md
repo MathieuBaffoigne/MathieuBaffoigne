@@ -25,7 +25,7 @@
 
 My daily driver for pair programming, refactoring, debugging, and code review on real backend codebases.
 
-AI drafts, I review — every AI-assisted change still goes through the same tests, type checks, and scrutiny as hand-written code.
+AI drafts, I review. Every AI-assisted change still goes through the same tests, type checks, and scrutiny as hand-written code.
 
 ## 🎯 Currently Learning
 
