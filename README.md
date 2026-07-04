@@ -1,6 +1,6 @@
-# 👨‍💻 Mathieu Baffoigne | **Backend-First Full-Stack Developer | Python + AWS DevOps Automation**
+# Mathieu Baffoigne | **Backend-First Full-Stack Developer | Python + AWS DevOps Automation**
 
-## **🔥 Core Stack** *(Where I thrive and where I’m growing)*
+## ** Core Stack** *(Where I thrive and where I’m growing)*
 
 | **Area**          | **Primary Skills**                         | **Active Upskilling**                     |
 |-------------------|--------------------------------------------|-------------------------------------------|
@@ -13,7 +13,7 @@
 
 ---
 
-### **🚀 Current Focus** *(What I’m shipping and learning right now)*
+### ** Current Focus** *(What I’m shipping and learning right now)*
 
 - **Full-Stack Apps**:
   - Building **Angular + FastAPI** applications with **KeyCloack auth** and **real-time updates** (WebSockets).
@@ -30,7 +30,7 @@
 
 ---
 
-### **🌱 Learning Roadmap** *(My 2025–2026 upskilling plan)*
+### ** Learning Roadmap** *(My 2025–2026 upskilling plan)*
 
 - **Backend**:
   - Master **FastAPI async** and **Django channels** for real-time apps.
@@ -51,7 +51,7 @@
 
 ---
 
-### **💬 Let’s Talk About**
+### ** Let’s Talk About**
 
 - **Full-Stack**: How I bridge **Angular frontends** with **Python backends**.
 - **DevOps**: Terraform tips, AWS cost optimization, or CI/CD pipelines.
@@ -60,7 +60,7 @@
 
 ---
 
-### **📫 Connect & Collaborate**
+### ** Connect & Collaborate**
 
 - **Email**: [mathieubaffoigne@protonmail.com](mailto:mathieubaffoigne@protonmail.com)
-- **LinkedIn**: [profil](www.linkedin.com/in/mathieubaffoigne) *(let’s chat about AWS, Angular, or Python!)*
+- **LinkedIn**: [profil](https://www.linkedin.com/in/mathieubaffoigne/) *(let’s chat about AWS, Angular, or Python!)*
