@@ -31,11 +31,12 @@ AI drafts, I review. Every AI-assisted change still goes through the same tests,
 
 AWS Certified Developer (target: Q2/Q3 2026) · FastAPI async patterns · Django · Terraform at scale (Terragrunt)
 
+## 🚀 Personal Projects
+
+**[Cadence](https://github.com/MathieuBaffoigne/Cadence)** — Admin toolkit for small French businesses: offline-first desktop app (Angular + Tauri/Rust) syncing to a FastAPI + PostgreSQL backend on AWS. Hexagonal architecture, fully typed, TDD. Early scaffolding, actively in progress.
+
+**[Portfolio](https://mathieubaffoigne.github.io/)** — Bilingual (FR/EN) personal site built with Astro and Tailwind CSS.
+
 ## 🤝 Open Source Contribution
 
-**[got-missterry-api](https://github.com/GuildOpenTech/got-missterry-api)** — RAG chatbot API for [Guild Open Tech](https://github.com/GuildOpenTech), a French non-profit for tech education. FastAPI · ChromaDB · sentence-transformers, deployed on GCP with Terraform.
-
----
-
-> [!NOTE]
-> First personal projects coming soon — check back here.
+**[got-missterry-api](https://github.com/GuildOpenTech/got-missterry-api)** — RAG chatbot API for [Guild Open Tech](https://github.com/GuildOpenTech), a French non-profit for tech education. FastAPI · ChromaDB · sentence-transformers, deployed on GCP with Terraform. Merged a new feature endpoint and a large architecture cleanup refactor.
